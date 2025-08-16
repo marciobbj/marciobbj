@@ -1,6 +1,6 @@
 # Olá, eu sou Márcio!
 
-Minha jornada começou no **mercado financeiro**, onde atuei desenvolvendo soluções em larga escala para operações complexas. Durante esse período, percebi algo que mudou minha trajetória: **a tecnologia não deveria servir apenas para potencializar negócios, mas para transformar vidas e reduzir desigualdades**. Foi então que decidi migrar para o desenvolvimento de software com um propósito maior: **criar ferramentas que conectem pessoas, promovam inclusão e gerem impacto real na sociedade**. Hoje, sou desenvolvedor especializado em **automação**, **integrações** e **soluções web**, com experiência em projetos que unem **tecnologia, inovação e impacto social**.
+Minha jornada começou no **mercado financeiro**, onde atuei desenvolvendo soluções em larga escala para operações complexas utilizando Python e atuando como Backend. Durante esse período, percebi algo que mudou minha trajetória: **a tecnologia não deveria servir apenas para potencializar negócios, mas para transformar vidas e reduzir desigualdades**. Foi então que decidi migrar para o desenvolvimento de software com um propósito maior: **criar ferramentas que conectem pessoas, promovam inclusão e gerem impacto real na sociedade**. Hoje, sou desenvolvedor especializado em **automação**, **integrações** e **soluções web**, com experiência em projetos que unem **tecnologia, inovação e impacto social**.
 
 ---
 
