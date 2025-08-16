@@ -4,7 +4,7 @@ Minha jornada começou no **mercado financeiro**, onde atuei desenvolvendo solu�
 
 ---
 
-## 🚀 Áreas de Interesse
+## Áreas de Interesse
 - 🛠️ Desenvolvimento Backend (Python & JS mostly)
 - ⚙️ Automações e Integrações
 - 📊 Dashboards e Visualização de Dados
@@ -19,7 +19,7 @@ Minha jornada começou no **mercado financeiro**, onde atuei desenvolvendo solu�
 
 ---
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque
 
 ### 🔹 Instituto Nova Alvorada
 O **Instituto Nova Alvorada** é um projeto social que atua na **reinserção de pessoas no mercado de trabalho** através de **capacitação profissional, inclusão digital e acompanhamento psicossocial**.  
@@ -32,6 +32,6 @@ Atualmente, estamos desenvolvendo:
 
 ---
 
-## 📫 Como me encontrar
+## Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/marcio-bernardes/))
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marciobernardes@live.com)
