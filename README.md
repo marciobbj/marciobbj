@@ -19,18 +19,18 @@ Minha jornada começou no **mercado financeiro**, onde atuei desenvolvendo solu�
 
 ---
 
-## Projetos em Destaque
+## Trabalhando atualmente em:
 
-### 🔹 Instituto Nova Alvorada
+### Instituto Nova Alvorada (Projeto privado)
 O **Instituto Nova Alvorada** é um projeto social que atua na **reinserção de pessoas no mercado de trabalho** através de **capacitação profissional, inclusão digital e acompanhamento psicossocial**.  
 Atualmente, estamos desenvolvendo:
 - **Plataforma de gestão social**: para organizar atendimentos, oficinas e acompanhamento de beneficiários.
 - **Cursos online e presenciais**: informática básica, habilidades socioemocionais e empregabilidade.
 - **Projetos de impacto**: inclusão de pessoas em situação de vulnerabilidade e egressos do sistema prisional.
-
 ➡ [Saiba mais sobre o Instituto Nova Alvorada](https://novaalvorada.org.br)
 
----
+### biblíoteca - ppycron (Projeto Open Source)
+### biblíoteca - django-searchable-dropdown (Open Source)
 
 ## Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-bernardes/)
