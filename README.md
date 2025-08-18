@@ -1,4 +1,4 @@
-# Olá, eu sou Márcio!
+# Olá, seja bem vindo! Sou o Márcio.
 
 Minha jornada começou no **mercado financeiro**, onde atuei desenvolvendo soluções em larga escala para operações complexas utilizando Python e atuando como Backend. Durante esse período, percebi algo que mudou minha trajetória: **a tecnologia não deveria servir apenas para potencializar negócios, mas para transformar vidas e reduzir desigualdades**. Foi então que decidi migrar para o desenvolvimento de software com um propósito maior: **criar ferramentas que conectem pessoas, promovam inclusão e gerem impacto real na sociedade**. Hoje, sou desenvolvedor especializado em **automação**, **integrações** e **soluções web**, com experiência em projetos que unem **tecnologia, inovação e impacto social**.
 
@@ -27,9 +27,10 @@ Atualmente, estamos desenvolvendo:
 - **Plataforma de gestão social**: para organizar atendimentos, oficinas e acompanhamento de beneficiários.
 - **Cursos online e presenciais**: informática básica, habilidades socioemocionais e empregabilidade.
 - **Projetos de impacto**: inclusão de pessoas em situação de vulnerabilidade e egressos do sistema prisional.
-➡ [Saiba mais sobre o Instituto Nova Alvorada](https://novaalvorada.org.br)
 
-### biblíoteca - ppycron (Projeto Open Source)
+Saiba mais em: [Instituto Nova Alvorada](https://novaalvorada.org.br)
+
+### biblíoteca - ppycron (Open Source)
 ### biblíoteca - django-searchable-dropdown (Open Source)
 
 ## Como me encontrar
