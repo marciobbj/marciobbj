@@ -20,7 +20,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Always+learning+.+.+." alt="Typing SVG" />
 
 
-[![Skills](https://skillicons.dev/icons?i=py,js,go,arch,django,jenkins,docker,git,neovim)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,js,go,dart,arch,django,jenkins,docker,git,neovim)](https://skillicons.dev)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=10000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Find+me+Here" alt="Typing SVG" />
 
