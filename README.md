@@ -22,7 +22,7 @@
 
 [![Skills](https://skillicons.dev/icons?i=py,js,go,dart,arch,django,jenkins,docker,git,neovim)](https://skillicons.dev)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=10000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Find+me+Here" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=10000&color=F7B93E&center=true&vCenter=true&width=500&lines=Find+me+Here" alt="Typing SVG" />
 
 <a href="https://novaalvorada.org.br"><img src="./novaalvorada-ico.svg" width="48" height="48" alt="Nova Alvorada" style="background-color: white; border-radius: 8px; padding: 4px;"/></a> [![dev](https://skillicons.dev/icons?i=discord)](https://discord.com/users/489143645165977610) [![dev](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/marcio-bernardes) 
 </div>
