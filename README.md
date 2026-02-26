@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #000;">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNhbmMyc2kzd2k5eTU0emlrNXIwb21yMTFnbnN0MGZ1dGpoenBwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7ISCTQRnSrcHHq/giphy.gif" width="500" alt="Rubik's Cube"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNhbmMyc2kzd2k5eTU0emlrNXIwb21yMTFnbnN0MGZ1dGpoenBwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7ISCTQRnSrcHHq/giphy.gif" width="250" alt="Rubik's Cube"/>
 
 <br>
 
