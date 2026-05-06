@@ -1,7 +1,4 @@
 <div align="center" style="background-color: #000;">
-
-----
-
 <details>
   <summary style="color: #fff;">Contribution Graph</summary>
   <samp>
